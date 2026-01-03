@@ -1,2 +1,2 @@
 # CG_DOTNET
-This is capagemini Training Practice and Assignment Work.
+This is Practice code  and Assignment Work.
