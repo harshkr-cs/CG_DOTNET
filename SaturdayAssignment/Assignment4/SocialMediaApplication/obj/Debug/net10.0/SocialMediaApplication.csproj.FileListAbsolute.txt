@@ -1,0 +1,14 @@
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.AssemblyInfoInputs.cache
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.AssemblyInfo.cs
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.exe
+C:\CapageminiTraining\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.deps.json
+C:\CapageminiTraining\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.runtimeconfig.json
+C:\CapageminiTraining\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.dll
+C:\CapageminiTraining\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.pdb
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.dll
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\refint\SocialMediaApplication.dll
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.pdb
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.genruntimeconfig.cache
+C:\CapageminiTraining\SocialMediaApplication\obj\Debug\net10.0\ref\SocialMediaApplication.dll
