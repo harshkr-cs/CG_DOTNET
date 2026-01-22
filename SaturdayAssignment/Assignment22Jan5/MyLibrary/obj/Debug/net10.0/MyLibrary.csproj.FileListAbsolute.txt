@@ -1,0 +1,11 @@
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfo.cs
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\bin\Debug\net10.0\MyLibrary.deps.json
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\bin\Debug\net10.0\MyLibrary.dll
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\bin\Debug\net10.0\MyLibrary.pdb
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\MyLibrary.dll
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\refint\MyLibrary.dll
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\MyLibrary.pdb
+C:\CapageminiTraining\Assignment22Jan\MyLibrary\obj\Debug\net10.0\ref\MyLibrary.dll
