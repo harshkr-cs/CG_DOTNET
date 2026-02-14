@@ -1,0 +1,14 @@
+C:\CapageminiTraining\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.exe
+C:\CapageminiTraining\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.deps.json
+C:\CapageminiTraining\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.runtimeconfig.json
+C:\CapageminiTraining\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.dll
+C:\CapageminiTraining\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.pdb
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.AssemblyInfoInputs.cache
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.AssemblyInfo.cs
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.dll
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\refint\BookStoreApplication.dll
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.pdb
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.genruntimeconfig.cache
+C:\CapageminiTraining\BookStoreApplication\obj\Debug\net10.0\ref\BookStoreApplication.dll

@@ -1,0 +1,14 @@
+C:\CapageminiTraining\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.exe
+C:\CapageminiTraining\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.deps.json
+C:\CapageminiTraining\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.runtimeconfig.json
+C:\CapageminiTraining\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.dll
+C:\CapageminiTraining\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.pdb
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.AssemblyInfoInputs.cache
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.AssemblyInfo.cs
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.dll
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\refint\LogisticsProShipmentSystem.dll
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.pdb
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.genruntimeconfig.cache
+C:\CapageminiTraining\LogisticsProShipmentSystem\obj\Debug\net10.0\ref\LogisticsProShipmentSystem.dll
