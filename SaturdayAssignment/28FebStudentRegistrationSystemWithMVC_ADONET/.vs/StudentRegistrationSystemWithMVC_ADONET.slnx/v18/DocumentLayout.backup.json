@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\views\\student\\idcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:views\\student\\idcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\studentregistrationsystemwithmvc_adonet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2F81D5-7D29-BF23-8083-1C6DBFE49799}|StudentRegistrationSystemWithMVC_ADONET.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:59:00.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T09:57:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:56:59.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Views\\Student\\IDCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\IDCard.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Views\\Student\\IDCard.cshtml",
+              "RelativeToolTip": "Views\\Student\\IDCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T09:56:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T09:55:56.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-28T09:55:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:15:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\StudentRegistrationSystemWithMVC_ADONET\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T09:13:29.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

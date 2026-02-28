@@ -1,0 +1,28 @@
+﻿@model IEnumerable<StudentRegistrationSystemWithMVC_ADONET.Models.Student>
+
+<h2>Students List</h2>
+
+<a asp-action="Create">Register New Student</a>
+<br />
+<br />
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Download</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.StudentCode</td>
+            <td>@item.Name</td>
+            <td>
+                <a asp-action="DownloadIdCard" asp-route-id="@item.Id">
+                    Download ID Card
+                </a>
+            </td>
+        </tr>
+    }
+</table>
