@@ -1,0 +1,33 @@
+﻿@model MVC_CRUD_ADO_NET.Models.User
+
+<h2>Add User</h2>
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label>Name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label>Marks:</label>
+        <input asp-for="Marks" type="number" />
+        <span asp-validation-for="Marks"></span>
+    </div>
+
+    <div>
+        <label>Department:</label>
+        <input asp-for="Department" />
+        <span asp-validation-for="Department"></span>
+    </div>
+
+    <button type="submit">Save</button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

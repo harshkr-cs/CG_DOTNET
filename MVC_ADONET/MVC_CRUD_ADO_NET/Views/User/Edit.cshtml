@@ -1,0 +1,26 @@
+﻿@model MVC_CRUD_ADO_NET.Models.User
+
+<h2>Edit User</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label>Name:</label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label>Marks:</label>
+        <input asp-for="Marks" type="number" />
+    </div>
+
+    <div>
+        <label>Department:</label>
+        <input asp-for="Department" />
+    </div>
+
+    <button type="submit">Update</button>
+
+</form>

@@ -1,0 +1,29 @@
+﻿@model List<MVC_CRUD_ADO_NET.Models.User>
+
+<h2>User List</h2>
+
+<a asp-action="Create">Add New User</a>
+
+<table border="2">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Marks</th>
+        <th>Department</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Marks</td>
+            <td>@item.Department</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

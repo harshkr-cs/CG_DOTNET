@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MVCWithADO_NET02</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+@RenderSection("Scripts", required: false)
+
+<body class="flex flex-col min-h-screen bg-gray-100">
+
+    <!-- HEADER -->
+    <header class="bg-blue-600 text-white text-center p-4 text-2xl font-bold">
+        ABC Organization - Employee Management System
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="flex-grow container mx-auto p-6">
+        @RenderBody()
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-gray-800 text-white text-center p-4">
+        © 2026 MVCWithADO_NET02 | Designed by Harsh Kumar
+    </footer>
+
+</body>
+</html>

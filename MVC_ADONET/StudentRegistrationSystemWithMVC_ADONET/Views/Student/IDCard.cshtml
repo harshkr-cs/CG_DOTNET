@@ -1,0 +1,14 @@
+﻿@model StudentRegistrationSystemWithMVC_ADONET.Models.Student
+
+@{
+    var base64 = Convert.ToBase64String(Model.Photo);
+    var imgSrc = $"data:image/png;base64,{base64}";
+}
+
+<div style="width:300px;border:2px solid black;padding:10px;text-align:center;">
+    <img src="@imgSrc" width="120" height="120" />
+    <h3>@Model.Name</h3>
+    <p><b>ID:</b> @Model.StudentCode</p>
+    <p><b>Father:</b> @Model.FatherName</p>
+    <p><b>Mobile:</b> @Model.Mobile</p>
+</div>

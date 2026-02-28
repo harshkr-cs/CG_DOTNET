@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|c:\\users\\harsh kumar\\desktop\\asp_nethome\\employeemanagementsystemmvc_adonet\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E1F231-B8A3-2FBA-2957-BBE6392BE28C}|EmployeeManagementSystemMVC_ADONET.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:25:09.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:11:34.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:23:30.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:24:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:51:08.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:10:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:09:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T09:16:27.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:15:48.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:03:17.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:58:36.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:51:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Harsh Kumar\\Desktop\\ASP_NETHome\\EmployeeManagementSystemMVC_ADONET\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:12:51.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
